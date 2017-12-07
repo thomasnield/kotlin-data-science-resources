@@ -9,15 +9,13 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 
 # Kotlin Libraries
 
-|Library Name|Category|Description|
-|---|---|---|
+|Library Name|Category|Description|---|---|---|
 |[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Idiomatic statistical/analytical extension functions for Kotlin|
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
 |[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin|
 |[TornadoFX](https://www.gitbook.com/book/edvin/tornadofx-guide/details)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)|
 |[TornadoFX-ControlsFX](https://github.com/edvin/tornadofx-controlsfx)|UI|[ControlsFX](http://fxexperience.com/controlsfx/features/) extensions with more data views and controls for TornadoFX|
-
 
 # Java Libraries
 
@@ -40,6 +38,8 @@ If you already are proficient in data science but want to learn Kotlin.
 |[From Data Science to Production with Kotlin (O'Reilly)](https://www.safaribooksonline.com/library/view/from-data-science/9781491998205/)|Video|Kotlin|Trains Python data science professionals transitioning to Kotlin|
 |[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
 
+
+
 # Resources for Kotlin Developers
 
 If you are a veteran JVM/Kotlin developer wanting to learn data science. 
@@ -52,6 +52,15 @@ If you are a veteran JVM/Kotlin developer wanting to learn data science.
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
 |[Model Building in Mathematical Programming](http://a.co/hgXKLKr)|Book|Optimization|Covers linear programming particularly for optimization problems
 |[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
+
+# Roadmap
+
+For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
+
+[] Jupyter support- There is a Jupypter plugin for Kotlin that needs development
+[] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
+
+
 
 # Communities
 
