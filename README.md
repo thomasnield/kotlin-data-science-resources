@@ -58,8 +58,9 @@ If you are a veteran JVM/Kotlin developer wanting to learn data science.
 
 For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
 
-[] Jupyter support- There is a Jupypter plugin for Kotlin that needs development
-[] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
+[ ] Jupyter support- There is a Jupypter plugin for Kotlin that needs development
+
+[ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
 
 
 
