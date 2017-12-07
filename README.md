@@ -9,7 +9,8 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 
 # Kotlin Libraries
 
-|Library Name|Category|Description|---|---|---|
+|Library Name|Category|Description
+|---|---|---|
 |[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Idiomatic statistical/analytical extension functions for Kotlin|
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
