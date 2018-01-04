@@ -54,7 +54,7 @@ If you are a veteran JVM/Kotlin developer wanting to learn data science.
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
 |[Model Building in Mathematical Programming](http://a.co/hgXKLKr)|Book|Optimization|Covers linear/integer programming particularly for optimization problems
 |[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
-|AMPL|eBook|Optimization|Free eBook covering linear/integer programming|
+|[AMPL](https://ampl.com/resources/the-ampl-book/)|eBook|Optimization|Free eBook covering linear/integer programming|
 # Roadmap
 
 For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
