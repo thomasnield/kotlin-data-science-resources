@@ -15,6 +15,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
 |[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin|
+|[KotlinNLP](https://github.com/KotlinNLP)|Natural Language|Natural Language Processing framework for Kotlin|
 |[TornadoFX](https://www.gitbook.com/book/edvin/tornadofx-guide/details)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)|
 |[TornadoFX-ControlsFX](https://github.com/edvin/tornadofx-controlsfx)|UI|[ControlsFX](http://fxexperience.com/controlsfx/features/) extensions with more data views and controls for TornadoFX|
 
@@ -51,9 +52,9 @@ If you are a veteran JVM/Kotlin developer wanting to learn data science.
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
 |[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
-|[Model Building in Mathematical Programming](http://a.co/hgXKLKr)|Book|Optimization|Covers linear programming particularly for optimization problems
+|[Model Building in Mathematical Programming](http://a.co/hgXKLKr)|Book|Optimization|Covers linear/integer programming particularly for optimization problems
 |[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
-
+|AMPL|eBook|Optimization|Free eBook covering linear/integer programming|
 # Roadmap
 
 For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
