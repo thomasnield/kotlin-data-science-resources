@@ -14,7 +14,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Idiomatic statistical/analytical extension functions for Kotlin|
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
-|[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin|
+|[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin, primarily for text processing|
 |[KotlinNLP](https://github.com/KotlinNLP)|Natural Language|Natural Language Processing framework for Kotlin|
 |[TornadoFX](https://www.gitbook.com/book/edvin/tornadofx-guide/details)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)|
 |[TornadoFX-ControlsFX](https://github.com/edvin/tornadofx-controlsfx)|UI|[ControlsFX](http://fxexperience.com/controlsfx/features/) extensions with more data views and controls for TornadoFX|
@@ -30,7 +30,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
 |[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
 |[Charts](https://github.com/HanSolo/charts)|Charting|Scientific JavaFX charting library in development|
-
+|[Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)|Natural Language|Natural language processing toolkit|
 # Resources for Python Developers
 
 If you already are proficient in data science but want to learn Kotlin. 
