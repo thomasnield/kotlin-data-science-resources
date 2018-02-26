@@ -67,6 +67,7 @@ For Kotlin to become a mainstream data science platform on par with Python and R
 - [ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
 - [X] Consider adding Kotlin API for a NLP framework
 - [ ] Linear/nonlinear regression
+- [ ] Kotlin/Native - Explore bindings against Python C libraries
 
 # Communities
 
