@@ -15,8 +15,8 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 |[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Idiomatic statistical/analytical extension functions for Kotlin|
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
-|[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin, primarily for text processing|
-|[KotlinNLP](https://github.com/KotlinNLP)|Natural Language|Natural Language Processing framework for Kotlin|
+|[Komputation](https://github.com/sekwiatkowski/komputation)|Deep Learning|Neural network platform for Kotlin, primarily for text processing|
+|[KotlinNLP](https://github.com/KotlinNLP)|Natural Language Processing|Natural Language Processing framework for Kotlin|
 |[TornadoFX](https://www.gitbook.com/book/edvin/tornadofx-guide/details)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)|
 |[TornadoFX-ControlsFX](https://github.com/edvin/tornadofx-controlsfx)|UI|[ControlsFX](http://fxexperience.com/controlsfx/features/) extensions with more data views and controls for TornadoFX|
 |[Kotlin Jupyter](https://github.com/ligee/kotlin-jupyter)|Notebook|Kotlin support for Jupyter|
@@ -29,11 +29,11 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 |[TableSaw](https://github.com/jtablesaw/tablesaw)|Analytics|Robust, scalable dataframe library|
 |[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
 |[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
-|[DeepLearning4J](https://deeplearning4j.org/)|Maching Learning|Deep learning library for Java|
+|[DeepLearning4J](https://deeplearning4j.org/)|Deep Learning|Deep learning library for Java|
 |[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
 |[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
 |[Charts](https://github.com/HanSolo/charts)|Charting|Scientific JavaFX charting library in development|
-|[Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)|Natural Language|Natural language processing toolkit|
+|[CoreNLP](https://stanfordnlp.github.io/CoreNLP/)|Natural Language Processing|Natural language processing toolkit|
 
 # Resources for Python Developers
 
@@ -65,7 +65,7 @@ For Kotlin to become a mainstream data science platform on par with Python and R
 
 - [ ] Jupyter support- There is a [Jupyter plugin](https://github.com/ligee/kotlin-jupyter) for Kotlin that needs development
 - [ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
-- [ ] Consider adding Kotlin API for a NLP framework
+- [X] Consider adding Kotlin API for a NLP framework
 - [ ] Linear/nonlinear regression
 
 # Communities
