@@ -6,6 +6,7 @@
 
 This document serves as an awesome-like curation of helpful links in using Kotlin for data science/data engineering purposes. Please feel free to put in PR's with other links you find helpful. 
 
+With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html) on the horizon, the scope of this document will hopefully expand beyond the JVM. 
 
 # Kotlin Libraries
 
@@ -18,23 +19,25 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[KotlinNLP](https://github.com/KotlinNLP)|Natural Language|Natural Language Processing framework for Kotlin|
 |[TornadoFX](https://www.gitbook.com/book/edvin/tornadofx-guide/details)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)|
 |[TornadoFX-ControlsFX](https://github.com/edvin/tornadofx-controlsfx)|UI|[ControlsFX](http://fxexperience.com/controlsfx/features/) extensions with more data views and controls for TornadoFX|
+|[Kotlin Jupyter](https://github.com/ligee/kotlin-jupyter)|Notebook|Kotlin support for Jupyter|
 
 # Java Libraries
 
 |Library Name|Category|Description|
 |---|---|---|
-|[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
-|[TableSaw](https://github.com/jtablesaw/tablesaw)|Analytics|Robust, scalable dataframe library|
-|[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
 |[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
+|[TableSaw](https://github.com/jtablesaw/tablesaw)|Analytics|Robust, scalable dataframe library|
+|[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
+|[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
 |[DeepLearning4J](https://deeplearning4j.org/)|Maching Learning|Deep learning library for Java|
 |[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
 |[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
 |[Charts](https://github.com/HanSolo/charts)|Charting|Scientific JavaFX charting library in development|
 |[Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)|Natural Language|Natural language processing toolkit|
+
 # Resources for Python Developers
 
-If you already are proficient in data science but want to learn Kotlin. 
+If you already are proficient in Python but want to learn Kotlin and its possible benefits on the data science domain. 
 
 |Name|Media|Topic|Description|
 |---|---|---|---|
@@ -45,7 +48,7 @@ If you already are proficient in data science but want to learn Kotlin.
 
 # Resources for Kotlin Developers
 
-If you are a veteran JVM/Kotlin developer wanting to learn data science. 
+If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwordy domain of "data science".
 
 |Name|Media|Topic|Description|
 |---|---|---|---|
@@ -60,7 +63,7 @@ If you are a veteran JVM/Kotlin developer wanting to learn data science.
 
 For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
 
-- [ ] Jupyter support- There is a Jupypter plugin for Kotlin that needs development
+- [ ] Jupyter support- There is a [Jupyter plugin](https://github.com/ligee/kotlin-jupyter) for Kotlin that needs development
 - [ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
 - [ ] Consider adding Kotlin API for a NLP framework
 
