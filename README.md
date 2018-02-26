@@ -66,7 +66,7 @@ For Kotlin to become a mainstream data science platform on par with Python and R
 - [ ] Jupyter support- There is a [Jupyter plugin](https://github.com/ligee/kotlin-jupyter) for Kotlin that needs development
 - [ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
 - [ ] Consider adding Kotlin API for a NLP framework
-
+- [ ] Linear/nonlinear regression
 
 # Communities
 
