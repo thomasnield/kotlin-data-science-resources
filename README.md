@@ -52,13 +52,17 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 
 |Name|Media|Topic|Description|
 |---|---|---|---|
+[Machine Learning On Coursera](https://www.coursera.org/learn/machine-learning)|Online Class|ML|Andrwe Ng's famous Coursera course on ML|
 |[3Blue1Brown](http://www.3blue1brown.com/videos/)|Video|Math, ML, etc|Hours of free videos visually demonstrating critical mathematical concepts|
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
 |[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
+|[Discrete Optimization on Coursera](https://www.coursera.org/learn/discrete-optimization/)|Online Class|Optimization|Deep dive class into discrete optimization|
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
 |[Model Building in Mathematical Programming](http://a.co/hgXKLKr)|Book|Optimization|Covers linear/integer programming particularly for optimization problems
 |[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
 |[AMPL](https://ampl.com/resources/the-ampl-book/)|eBook|Optimization|Free eBook covering linear/integer programming|
+
+
 # Roadmap
 
 For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
