@@ -24,6 +24,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |Library Name|Category|Description|
 |---|---|---|
 |[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
+|[TableSaw](https://github.com/jtablesaw/tablesaw)|Analytics|Robust, scalable dataframe library|
 |[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
 |[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
 |[DeepLearning4J](https://deeplearning4j.org/)|Maching Learning|Deep learning library for Java|
