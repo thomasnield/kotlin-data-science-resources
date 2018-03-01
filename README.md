@@ -26,14 +26,19 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 |Library Name|Category|Description|
 |---|---|---|
 |[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
-|[TableSaw](https://github.com/jtablesaw/tablesaw)|Analytics|Robust, scalable dataframe library|
+|[TableSaw](https://github.com/jtablesaw/tablesaw)|DataFrame|Java DataFrame lib|
+|[Joinery](https://cardillo.github.io/joinery/v1.8/api/reference/joinery/DataFrame.html)|DataFrame|Java DataFrame lib|
 |[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
 |[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
 |[DeepLearning4J](https://deeplearning4j.org/)|Deep Learning|Deep learning library for Java|
 |[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
+|[Apache Commons IO](https://commons.apache.org/proper/commons-io/)|IO|IO Utilities|
+|[JBlas](https://github.com/mikiobraun/jblas)|Linear Algebra|Linear Algebra for Java|
 |[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
 |[Charts](https://github.com/HanSolo/charts)|Charting|Scientific JavaFX charting library in development|
 |[CoreNLP](https://stanfordnlp.github.io/CoreNLP/)|Natural Language Processing|Natural language processing toolkit|
+|[Renjin](https://en.wikipedia.org/wiki/Renjin)|Interop|R JVM implementation|
+
 
 # Resources for Python Developers
 
