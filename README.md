@@ -1,5 +1,5 @@
 # Kotlin Data Science Resources
-### Libraries, media, links, and other resources to use Kotlin for data science
+### Libraries, media, links, and other resources to use Kotlin for data science applications
 
 
 ![](https://camo.githubusercontent.com/705d7144bcce5b0fcb68ea1bd563837bdf3398da/687474703a2f2f692e696d6775722e636f6d2f763346716945412e706e67)
