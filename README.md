@@ -29,8 +29,8 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 |Library Name|Category|Description|
 |---|---|---|
 |[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
-|[TableSaw](https://github.com/jtablesaw/tablesaw)|DataFrame|Java DataFrame lib|
-|[Joinery](https://cardillo.github.io/joinery/v1.8/api/reference/joinery/DataFrame.html)|DataFrame|Java DataFrame lib|
+|[TableSaw](https://github.com/jtablesaw/tablesaw)|DataFrame|Tabular data processing and manipulation|
+|[Joinery](https://cardillo.github.io/joinery/v1.8/api/reference/joinery/DataFrame.html)|DataFrame|Tabular data processing and manipulation|
 |[JSoup](https://jsoup.org/)|Data Wrangling|HTML parsing library for Java|
 |[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
 |[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
