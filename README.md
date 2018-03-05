@@ -77,11 +77,13 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 
 For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
 
-- [ ] Jupyter support- There is a [Jupyter plugin](https://github.com/ligee/kotlin-jupyter) for Kotlin that needs development
+- [ ] Kotlin extensions to existing Java libs are an easy contribution opportunity (e.g. Kotlin-Statisitcs and Sparklin)
 - [ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
 - [X] Consider adding Kotlin API for a NLP framework
-- [ ] Linear/nonlinear regression
+- [ ] Linear/nonlinear regression libraries need to be developed/identified
 - [ ] Kotlin/Native - Explore bindings against Python C libraries
+- [ ] Kotlin/Native - Need a NumPy-like library, [ojAlgo](https://github.com/optimatika/ojAlgo)-like solvers a plus
+- [ ] Jupyter support- There is a [Jupyter plugin](https://github.com/ligee/kotlin-jupyter) for Kotlin that needs development
 
 # Communities
 
