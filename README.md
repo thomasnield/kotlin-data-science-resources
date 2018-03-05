@@ -6,6 +6,8 @@
 
 This document serves as an awesome-like curation of helpful links in using Kotlin for data science/data engineering purposes. Please feel free to put in PR's with other links you find helpful. 
 
+Data Science is a [broad, buzzwordy](http://tomstechnicalblog.blogspot.com/2018/01/is-it-time-to-stop-using-term-data.html) domain that seeks to gain insight from data. While the incumbent programming tools in data science environments are [R](https://www.r-project.org/), [Python](https://www.python.org/), and even [Scala](http://www.scala-lang.org/), there is a [large opportunity for Kotlin](https://www.youtube.com/watch?v=J8GYPG6pt5w) to enter this space. Kotlin can add value by closing the gap between data science and software engineering, and essentially finish what Scala started. 
+
 With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html) on the horizon, the scope of this document will hopefully expand beyond the JVM. 
 
 # Kotlin Libraries
@@ -13,6 +15,7 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 |Library Name|Category|Description
 |---|---|---|
 |[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Idiomatic statistical/analytical extension functions for Kotlin|
+|[Sparklin](https://github.com/khud/sparklin)|Scaled Data Processing|Kotlin framework for Apache Spark|
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
 |[Komputation](https://github.com/sekwiatkowski/komputation)|Deep Learning|Neural network platform for Kotlin, primarily for text processing|
@@ -92,5 +95,6 @@ For Kotlin to become a mainstream data science platform on par with Python and R
 
 |Name|Media|Description|
 |---|---|---|
-|[KotlinConf- Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Conference|Thomas Nield explains the merits of Kotlin for data science|
+|[KotlinConf- Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Conference|Thomas Nield explains the merits of Kotlin on the data science domain|
 |[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Conference|Holger Brandl covers kscript for data science workflows|
+|[Talking Kotlin - Data Science with Thomas Nield](http://talkingkotlin.com/Data-Science-with-Thomas-Nield/)|Podcast|Thomas Nield explains the merits of Kotlin on the data science domain
