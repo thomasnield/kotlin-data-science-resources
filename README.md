@@ -61,7 +61,7 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 
 |Name|Media|Topic|Description|
 |---|---|---|---|
-[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)|Online Class|ML|Andrwe Ng's famous Coursera course on ML|
+[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)|Online Class|ML|Andrew Ng's famous Coursera course on ML|
 |[3Blue1Brown](http://www.3blue1brown.com/videos/)|Video|Math, ML, etc|Hours of free videos visually demonstrating critical mathematical concepts|
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
 |[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
