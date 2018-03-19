@@ -23,6 +23,7 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 |[TornadoFX](https://www.gitbook.com/book/edvin/tornadofx-guide/details)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)|
 |[TornadoFX-ControlsFX](https://github.com/edvin/tornadofx-controlsfx)|UI|[ControlsFX](http://fxexperience.com/controlsfx/features/) extensions with more data views and controls for TornadoFX|
 |[Kotlin Jupyter](https://github.com/ligee/kotlin-jupyter)|Notebook|Kotlin support for Jupyter|
+|[Kotlin Algorithm](https://github.com/gazolla/Kotlin-Algorithm#machine-learning)|Algorithm|Kotlin algorithm implementations|
 
 # Java Libraries
 
@@ -82,6 +83,7 @@ For Kotlin to become a mainstream data science platform on par with Python and R
 - [ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. Tensorflow)
 - [X] Consider adding Kotlin API for a NLP framework
 - [ ] Linear/nonlinear regression libraries need to be developed/identified
+- [ ] Implement ML algorithms in [Kotlin Algorithm](https://github.com/gazolla/Kotlin-Algorithm#machine-learning) project
 - [ ] Kotlin/Native - Explore bindings against Python C libraries
 - [ ] Kotlin/Native - Need a NumPy-like library, [ojAlgo](https://github.com/optimatika/ojAlgo)-like solvers a plus
 - [ ] Jupyter support- There is a [Jupyter plugin](https://github.com/ligee/kotlin-jupyter) for Kotlin that needs development
