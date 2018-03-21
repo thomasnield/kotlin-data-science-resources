@@ -34,6 +34,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[TornadoFX](https://www.gitbook.com/book/edvin/tornadofx-guide/details)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)|
 |[TornadoFX-ControlsFX](https://github.com/edvin/tornadofx-controlsfx)|UI|[ControlsFX](http://fxexperience.com/controlsfx/features/) extensions with more data views and controls for TornadoFX|
 |[Kotlin Jupyter](https://github.com/ligee/kotlin-jupyter)|Notebook|Kotlin support for Jupyter|
+|[JINX](https://exceljava.com/docs/tutorials/kotlin.html)|Plugin|Create Excel functions with Java/Scala/Kotlin instead of VBA|
 |[Kotlin Algorithm](https://github.com/gazolla/Kotlin-Algorithm#machine-learning)|Algorithm|Kotlin algorithm implementations|
 
 # Java Libraries
