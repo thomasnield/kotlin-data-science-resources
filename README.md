@@ -60,7 +60,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 
 # Resources for Python Developers
 
-If you already are proficient in Python but want to learn Kotlin and its possible benefits on the data science domain. 
+If you already are proficient in Python but want to learn Kotlin and its potential on the data science domain. 
 
 |Name|Media|Topic|Description|
 |---|---|---|---|
