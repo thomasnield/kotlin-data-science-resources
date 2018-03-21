@@ -16,10 +16,10 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 
 |Project|Description|
 |---|---|
-|[Bayes Email Spam Filter](https://github.com/thomasnield/bayes_email_spam]|A Kotlin proof-of-concept implementation of a spam filter
-|[Bayes User Input Prediction](https://github.com/thomasnield/bayes_user_input_prediction]|A simple TornadoFX app that predicts user inputs using Naive Bayes text categorization
-|[Classroom Scheduler[(https://github.com/thomasnield/optimized-scheduling-demo]|A discrete programming model using ojAlgo that schedules classes against one classroom|
-|[Driver Shift Optimizer](https://github.com/thomasnield/continuous-optimization-example]|A  linear programming model using ojAlgo to minimze the cost of driver shifts in a day
+|[Bayes Email Spam Filter](https://github.com/thomasnield/bayes_email_spam)|A Kotlin proof-of-concept implementation of a spam filter
+|[Bayes User Input Prediction](https://github.com/thomasnield/bayes_user_input_prediction)|A simple TornadoFX app that predicts user inputs using Naive Bayes text categorization
+|[Classroom Scheduler[(https://github.com/thomasnield/optimized-scheduling-demo)|A discrete programming model using ojAlgo that schedules classes against one classroom|
+|[Driver Shift Optimizer](https://github.com/thomasnield/continuous-optimization-example)|A  linear programming model using ojAlgo to minimze the cost of driver shifts in a day
 
 # Kotlin Libraries
 
