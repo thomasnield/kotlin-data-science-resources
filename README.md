@@ -50,6 +50,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
 |[DeepLearning4J](https://deeplearning4j.org/)|Deep Learning|Deep learning library for Java|
 |[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
+|[Java Naive Bayes Classifier](https://github.com/ptnplanet/Java-Naive-Bayes-Classifier)|Math/Statistics|Naive Bayes classifier for Java|
 |[Apache Commons IO](https://commons.apache.org/proper/commons-io/)|IO|IO Utilities|
 |[JBlas](https://github.com/mikiobraun/jblas)|Linear Algebra|Linear Algebra for Java|
 |[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
