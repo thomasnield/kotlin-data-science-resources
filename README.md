@@ -58,7 +58,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[Charts](https://github.com/HanSolo/charts)|Charting|Scientific JavaFX charting library in development|
 |[CoreNLP](https://stanfordnlp.github.io/CoreNLP/)|Natural Language Processing|Natural language processing toolkit|
 |[Renjin](https://en.wikipedia.org/wiki/Renjin)|Interop|R JVM implementation|
-
+|[Apache Mahout](https://mahout.apache.org/)|Linear Algebra|Distributed framework for regression, clustering and recommendation|
 
 # Resources for Python Developers
 
