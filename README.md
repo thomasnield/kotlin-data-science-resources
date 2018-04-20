@@ -78,7 +78,7 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |Name|Media|Topic|Description|
 |---|---|---|---|
 |[Brandon Rohrer](https://brohrer.github.io/blog.html)|Blog|ML|Excellent videos and articles on machine learning topics|
-|[3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|Video|Math, ML, etc|Excellent YouTube channel visually covering mathematical concepts, including neural networks|
+|[3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|Video|Math, ML, etc|Excellent YouTube channel visually covering mathematical concepts, including neural networks|
 [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)|Online Class|ML|Andrew Ng's famous Coursera course on ML|
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
 |[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
