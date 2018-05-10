@@ -42,6 +42,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 
 |Library Name|Category|Description|
 |---|---|---|
+|[TensorFlow](https://www.tensorflow.org/install/install_java)|ML|Machine Learning library from Google|
 |[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
 |[TableSaw](https://github.com/jtablesaw/tablesaw)|DataFrame|Tabular data processing and manipulation|
 |[Joinery](https://cardillo.github.io/joinery/v1.8/api/reference/joinery/DataFrame.html)|DataFrame|Tabular data processing and manipulation|
