@@ -27,6 +27,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |---|---|---|
 |[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Idiomatic statistical/analytical extension functions for Kotlin|
 |[okAlgo](https://github.com/optimatika/okAlgo)|Optimization|Kotlin extensions to [ojAlgo](https://github.com/optimatika/ojAlgo)|
+|[Data2Viz](http://data2viz.io/)|Charts|Cross-platform charts and visuals for Kotlin|
 |[Sparklin](https://github.com/khud/sparklin)|Scaled Data Processing|Kotlin framework for Apache Spark|
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
