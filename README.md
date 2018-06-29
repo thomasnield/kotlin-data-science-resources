@@ -4,7 +4,7 @@
 
 ![](https://camo.githubusercontent.com/705d7144bcce5b0fcb68ea1bd563837bdf3398da/687474703a2f2f692e696d6775722e636f6d2f763346716945412e706e67)
 
-This document serves as an awesome-like curation of helpful links in using Kotlin for data science/data engineering purposes. Please feel free to put in PR's with other links you find helpful. 
+This document serves as an awesome-like curation of helpful links in using Kotlin for data science/data engineering/machine learning/optimization purposes. Please feel free to put in PR's with other links you find helpful. 
 
 Data Science is a [broad, buzzwordy](http://tomstechnicalblog.blogspot.com/2018/01/is-it-time-to-stop-using-term-data.html) domain that seeks to gain insight from data. Arguably, [optimization and operations research](https://cs.stackexchange.com/questions/71525/data-science-vs-operations-research) algorithms play a role in this space as well. While the incumbent programming tools in data science are [R](https://www.r-project.org/), [Python](https://www.python.org/), and even [Scala](http://www.scala-lang.org/), there is a [large opportunity for Kotlin](https://www.youtube.com/watch?v=J8GYPG6pt5w) to enter this space. Kotlin can add value by closing the gap between data science and software engineering, and essentially finish what Scala started. 
 
