@@ -22,6 +22,8 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[Traveling Salesman Problem](https://github.com/thomasnield/traveling_salesman_demo)|A visual Kotlin demo of the [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)|
 |[Driver Shift Optimizer](https://github.com/thomasnield/continuous-optimization-example)|A  linear programming model using ojAlgo to minimze the cost of driver shifts in a day
 |[Kotlin Simple Neural Network](https://github.com/thomasnield/kotlin_simple_neural_network)|A simple application built with a Kotlin-implemented neural network|
+|[Kubed Map Visualization](https://medium.com/@hudsonb/lets-make-a-visualization-choropleth-map-f2a90a82f9b6)|A U.S. heat map of unemployment rates|
+
 
 # Kotlin Libraries
 
@@ -49,6 +51,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
 |[TableSaw](https://github.com/jtablesaw/tablesaw)|DataFrame|Tabular data processing and manipulation|
 |[Joinery](https://cardillo.github.io/joinery/v1.8/api/reference/joinery/DataFrame.html)|DataFrame|Tabular data processing and manipulation|
+|[Kubed](https://github.com/hudsonb/kubed)|Visualization|JavaFX-based, [D3.js](https://d3js.org/)-like visualizations|
 |[Dex](https://github.com/PatMartin/Dex)|Charting|Java-based data visualization tool|
 |[JSoup](https://jsoup.org/)|Data Wrangling|HTML parsing library for Java|
 |[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
