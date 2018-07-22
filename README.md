@@ -66,6 +66,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[CoreNLP](https://stanfordnlp.github.io/CoreNLP/)|Natural Language Processing|Natural language processing toolkit|
 |[Renjin](https://en.wikipedia.org/wiki/Renjin)|Interop|R JVM implementation|
 |[Apache Mahout](https://mahout.apache.org/)|Linear Algebra|Distributed framework for regression, clustering and recommendation|
+|[Weka](https://www.cs.waikato.ac.nz/ml/index.html)|Data Mining Software|Collection of machine learning algorithms for data mining tasks|
 
 # Resources for Python Developers
 
