@@ -121,7 +121,7 @@ For Kotlin to become a mainstream data science platform on par with Python and R
 
 |Name|Media|Description|
 |---|---|---|
-|Kotlin Machine Learning  and Optimization](https://www.youtube.com/playlist?list=PLYDlqiU6gadsBEHh-N861iWcBzazs4sEU)|Video|Thomas' demos and walkthroughs of different optimization and machine learning algorithms in Kotlin|
+|[Kotlin Machine Learning  and Optimization](https://www.youtube.com/playlist?list=PLYDlqiU6gadsBEHh-N861iWcBzazs4sEU)|Video|Thomas' demos and walkthroughs of different optimization and machine learning algorithms in Kotlin|
 |[KotlinConf- Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Conference|Thomas Nield explains the merits of Kotlin on the data science domain|
 |[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Conference|Holger Brandl covers kscript for data science workflows|
 |[Talking Kotlin - Data Science with Thomas Nield](http://talkingkotlin.com/Data-Science-with-Thomas-Nield/)|Podcast|Thomas Nield explains the merits of Kotlin on the data science domain
