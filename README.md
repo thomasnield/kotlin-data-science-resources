@@ -97,7 +97,6 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |[Discrete Optimization (Coursera)](https://www.coursera.org/learn/discrete-optimization/)|Online Class|Optimization|Deep dive class into linear/integer programming and optimization|
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
 |[Model Building in Mathematical Programming](http://a.co/hgXKLKr)|Book|Optimization|Covers linear/integer programming particularly for optimization problems
-|[AMPL](https://ampl.com/resources/the-ampl-book/)|eBook|Optimization|Free eBook covering linear/integer programming|
 
 
 # Roadmap
