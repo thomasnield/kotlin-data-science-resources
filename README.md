@@ -49,7 +49,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 
 |Library Name|Category|Description|
 |---|---|---|
-|[TensorFlow](https://www.tensorflow.org/install/install_java)|ML|Machine Learning library from Google|
+|[DeepLearning4J](https://deeplearning4j.org/)|Deep Learning|Deep learning library for Java|
 |[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
 |[TableSaw](https://github.com/jtablesaw/tablesaw)|DataFrame|Tabular data processing and manipulation|
 |[Joinery](https://cardillo.github.io/joinery/v1.8/api/reference/joinery/DataFrame.html)|DataFrame|Tabular data processing and manipulation|
@@ -58,9 +58,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[JSoup](https://jsoup.org/)|Data Wrangling|HTML parsing library for Java|
 |[Smile](https://github.com/haifengl/smile)|ML and analytics|Comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system|
 |[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
-|[DeepLearning4J](https://deeplearning4j.org/)|Deep Learning|Deep learning library for Java|
 |[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
-|[Java Naive Bayes Classifier](https://github.com/ptnplanet/Java-Naive-Bayes-Classifier)|Math/Statistics|Naive Bayes classifier for Java|
 |[Apache Commons IO](https://commons.apache.org/proper/commons-io/)|IO|IO Utilities|
 |[JBlas](https://github.com/mikiobraun/jblas)|Linear Algebra|Linear Algebra for Java|
 |[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
