@@ -76,7 +76,7 @@ If you already are proficient in Python but want to learn Kotlin and its potenti
 |---|---|---|---|
 |[From Data Science to Production with Kotlin (O'Reilly)](https://www.safaribooksonline.com/library/view/from-data-science/9781491998205/)|Video|Kotlin|Trains Python data science professionals transitioning to Kotlin|
 |[Kotlin for Data Science (KotlinConf)](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
-|[Kotlin for Python Programmers](https://kotlinfrompython.wordpress.com/contents/)|Blog|Kotlin|Blog relating Kotlin concepts to a Pythonista audience|
+|[Kotlin for Python Programmers](https://khan.github.io/kotlin-for-python-developers/)|Document|Kotlin|A thorough documentation of Kotlin for Python devs|
 
 
 # Resources for Kotlin Developers
