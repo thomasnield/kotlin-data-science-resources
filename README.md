@@ -86,27 +86,15 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |Name|Media|Topic|Description|
 |---|---|---|---|
 |[Brandon Rohrer](https://brohrer.github.io/blog.html)|Blog|ML|Excellent videos and articles on machine learning topics|
-|[3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|Video|Math, ML, etc|Excellent YouTube channel visually covering mathematical concepts, including neural networks|
+|[3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|Video|Math, ML, etc|Excellent YouTube channel visually covering mathematical concepts, including [linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|
+|[Discrete Optimization (Coursera)](https://www.coursera.org/learn/discrete-optimization/)|Online Class|Optimization|Deep dive class into linear/integer programming and optimization|
 [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)|eBook|ML|The best practical guide on neural networks I've found|
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
 |[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
 |[Mastering Java for Data Science (Packt)](https://www.amazon.com/Mastering-Java-Data-Science-production-ready/dp/1782174273/)|Book|Data Science|Data science for Java developers|
 |[Mastering Java Machine Learning (Packt)](https://www.amazon.com/Mastering-Java-Machine-Learning-architectures/dp/1785880519)|Book|ML|Machine learning for Java developers|
-|[Discrete Optimization (Coursera)](https://www.coursera.org/learn/discrete-optimization/)|Online Class|Optimization|Deep dive class into linear/integer programming and optimization|
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
-|[Model Building in Mathematical Programming](http://a.co/hgXKLKr)|Book|Optimization|Covers linear/integer programming particularly for optimization problems
 
-
-# Roadmap
-
-For Kotlin to become a mainstream data science platform on par with Python and R, there is still some work to do. This will depend heavily on you, the community, to help fill these gaps. 
-
-- [ ] Kotlin extensions to existing Java libs are an easy contribution opportunity (e.g. Kotlin-Statisitcs and Sparklin)
-- [ ] Machine Learning- More robust machine learning libraries/API's need to be integrated with Kotlin (e.g. SMILE)
-- [ ] Implement ML algorithms in [Kotlin Algorithm](https://github.com/gazolla/Kotlin-Algorithm#machine-learning) project
-- [ ] Kotlin/Native - Explore bindings against Python C libraries
-- [ ] Kotlin/Native - Need a NumPy-like library, [ojAlgo](https://github.com/optimatika/ojAlgo)-like solvers a plus
-- [ ] Jupyter support- There is a [Jupyter plugin](https://github.com/ligee/kotlin-jupyter) for Kotlin that needs development
 
 # Communities
 
