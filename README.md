@@ -41,7 +41,7 @@ To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [
 
 A) Read the rest of this document and you will be surprised what the JVM ecosystem already offers :)
 
-
+<br><br>
 
 # Showcases
 
