@@ -34,7 +34,7 @@ To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [
 
 > The first player in ML field that will realise that Python is roadblock to further scale will reap the benefits. All we can do in Kotlin team is to make sure that when this realisation comes, Kotlin is in good shape to serve as a viable alternative to be considered.  - Roman Elizarov
 
-**Q) How can Kotlin do any machine learning or data science tasks when it does not match the library catalogue in Python or R?**
+**Q) How can Kotlin do any machine learning or data science tasks when it does not match the library catalogue of Python or R?**
 
 A) Read the rest of this document and you will be surprised what the JVM ecosystem already offers :)
 
