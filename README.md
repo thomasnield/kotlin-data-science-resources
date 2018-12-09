@@ -13,7 +13,7 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 
 # FAQ
 
-**Q: I am a Java/Kotlin developer and I want to dive into "data science". Where do I start? ** 
+**Q: I am a Java/Kotlin developer and I want to dive into "data science". Where do I start?** 
 
 **A:** The funny thing about buzzwords is they do prompt people to be open to new ideas, but when you reach the actual problem-solving stage it can be difficult knowing where to start. This is because "data science" means something different to every individual, company, and industry. Therefore it is easy for newcomers to chase [machine learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) as a solution to their problems when what they really need is [discrete optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome). Some data scientists love tinkering with Jupyter notebooks and Pandas DataFrames while software engineers find such approaches undisciplined and messy. Many data science book authors will tell you to [become proficient in linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), even though it seems pointless to learn without seeing real-world applications.
 
