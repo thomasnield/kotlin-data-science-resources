@@ -143,6 +143,7 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |---|---|---|
 |[KotlinConf - Mathematical Modeling with Kotlin](https://youtu.be/-zTqtEcnM7A)|Conference|Thomas Nield talks about optimization and ML with Kotlin|
 |[Kotlin Machine Learning  and Optimization](https://www.youtube.com/playlist?list=PLYDlqiU6gadsBEHh-N861iWcBzazs4sEU)|Video|Thomas' demos and walkthroughs of different optimization and machine learning algorithms in Kotlin|
+|[KotlinConf - Data Science Workflows with Kotlin](https://youtu.be/yjVW6uCmVBA)|Conference|Holger Brandl demonstrates Krangl workflows in Kotlin|
 |[KotlinConf- Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Conference|Thomas Nield explains the merits of Kotlin on the data science domain|
 |[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Conference|Holger Brandl covers kscript for data science workflows|
 |[Talking Kotlin - Data Science with Thomas Nield](http://talkingkotlin.com/Data-Science-with-Thomas-Nield/)|Podcast|Thomas Nield explains the merits of Kotlin on the data science domain
