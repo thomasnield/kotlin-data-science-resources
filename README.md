@@ -13,18 +13,18 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 
 # FAQ
 
-**Q: I am a Java/Kotlin developer and I want to dive into "data science". Where do I start?** 
+**Q) I am a Java/Kotlin developer and I want to dive into "data science". Where do I start?** 
 
-**A:** The funny thing about buzzwords is they do prompt people to be open to new ideas, but when you reach the actual problem-solving stage it can be difficult knowing where to start. This is because "data science" means something different to every individual, company, and industry. Therefore it is easy for newcomers to chase [machine learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) as a solution to their problems when what they really need is [discrete optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome). Some data scientists love tinkering with Jupyter notebooks and Pandas DataFrames while software engineers find such approaches undisciplined and messy. Many data science book authors will tell you to [become proficient in linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), even though it seems pointless to learn without seeing real-world applications.
+**A)** The funny thing about buzzwords is they do prompt people to be open to new ideas, but when you reach the actual problem-solving stage it can be difficult knowing where to start. This is because "data science" means something different to every individual, company, and industry. Therefore it is easy for newcomers to chase [machine learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) as a solution to their problems when what they really need is [discrete optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome). Some data scientists love tinkering with Jupyter notebooks and Pandas DataFrames while software engineers find such approaches undisciplined and messy. Many data science book authors will tell you to [become proficient in linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), even though it seems pointless to learn without seeing real-world applications.
 
 In my opinion, the best way to break into "data science" is to find problems with a nondeterministic nature that you would like to solve. Self-started projects like [generating a classroom schedule](https://github.com/thomasnield/optimized-scheduling-demo) or [categorizing text](https://www.youtube.com/watch?v=JLSdW60t898) are great ways to get insight and intuition pretty quickly. It also channels you into the areas of "data science" you will more likely be interested in. 
 
 I do think it is better to start learning [optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome) before diving into [machine learning](https://www.youtube.com/watch?v=tAioWlhKA90), as optimization is a key part of ML. Be sure to also develop a healthy curiosity for math and how it applies to the real-world, and YouTube channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) do a wonderful job fostering this kind of curiosity. 
 
 
-**Q: Why are you proposing using Kotlin for data science/machine learning purposes when most people are using Python?** 
+**Q) Why are you proposing using Kotlin for data science/machine learning purposes when most people are using Python?** 
 
-**A:** Kotlin is a production-grade and statically typed JVM language that fills the much-needed void of a more "pragmatic Scala". While many people are being productive with Python, [many organizations are finding Kotlin can help them be more productive](https://engineering.khanacademy.org/posts/kotlin-adoption.htm). This is especially true when it comes to building entire production systems and not just models.
+**A)** Kotlin is a production-grade and statically typed JVM language that fills the much-needed void of a more "pragmatic Scala". While many people are being productive with Python, [many organizations are finding Kotlin can help them be more productive](https://engineering.khanacademy.org/posts/kotlin-adoption.htm). This is especially true when it comes to building entire production systems and not just models.
 
 To give a lengthier answer, Roman Elizarov at JetBrains summarized it best [in this post](https://discuss.kotlinlang.org/t/ai-and-deep-learning-define-the-future-of-programming-will-kotlin-fly-or-die/2264/5): 
 
