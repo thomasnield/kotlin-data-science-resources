@@ -21,6 +21,7 @@ In my opinion, the best way to break into "data science" is to find problems wit
 
 I do think it is better to start learning [optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome) before diving into [machine learning](https://www.youtube.com/watch?v=tAioWlhKA90), as optimization is a key part of ML. Be sure to also develop a healthy curiosity for math and how it applies to the real-world, and YouTube channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) do a wonderful job fostering this kind of curiosity. 
 
+<br><br>
 
 **Q) Why are you proposing using Kotlin for data science/machine learning purposes when most people are using Python?** 
 
@@ -33,6 +34,8 @@ To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [
 > Kotlin is, without doubt, considerably more productive for any project of non-trivial size due to its static types and emphasis on toolability. Even at 10K+ Python LOCs you start to feel pains of a dynamic language. Python works nicely in slide-ware and in small code snippets of the kind you can put into iPython notebooks, where you can actually execute the code on your data and then enjoy code completion and integrated help on the actual, dynamically resolved object instances. As soon as you start writing the actual non-tirival code, abstracting it into modules, etc, it all starts to fail utterly – code completion and help becomes useless for any non-trivial framework even in state-of-the-art Python IDEs like PyCharm.
 
 > The first player in ML field that will realise that Python is roadblock to further scale will reap the benefits. All we can do in Kotlin team is to make sure that when this realisation comes, Kotlin is in good shape to serve as a viable alternative to be considered.  - Roman Elizarov
+
+<br><br>
 
 **Q) How can Kotlin do any machine learning or data science tasks when it does not match the library catalogue of Python or R?**
 
