@@ -26,7 +26,7 @@ I do think it is better to start learning [optimization](https://www.coursera.or
 
 **A)** Kotlin is a production-grade and statically typed JVM language that fills the much-needed void of a more "pragmatic Scala". While many people are being productive with Python, [many organizations are finding Kotlin can help them be more productive](https://engineering.khanacademy.org/posts/kotlin-adoption.htm). This is especially true when it comes to building entire production systems and not just models.
 
-To give a lengthier answer, Roman Elizarov at JetBrains summarized it best [in this post](https://discuss.kotlinlang.org/t/ai-and-deep-learning-define-the-future-of-programming-will-kotlin-fly-or-die/2264/5): 
+To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [in this post](https://discuss.kotlinlang.org/t/ai-and-deep-learning-define-the-future-of-programming-will-kotlin-fly-or-die/2264/5): 
 
 > Most other “Python” deep learning frameworks are actually written in C++. Python is used just as a scripting language to “glue” various moving pieces together. Any other scripting language could be used instead, with the corresponding (relatively thin) bridge. Of course, the current momentum is on the Python side. If the past history on innovation and rise/fall of languages teaches us anything, the lesson we can learn is that it does not really matter who came first to the field and it does not even matter who is the leader now.
 
