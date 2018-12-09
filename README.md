@@ -87,6 +87,7 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |---|---|---|---|
 |[Brandon Rohrer](https://brohrer.github.io/blog.html)|Blog|ML|Excellent videos and articles on machine learning topics|
 |[3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|Video|Math, ML, etc|Excellent YouTube channel visually covering mathematical concepts, including [linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|
+|[Thomas Nield](https://www.youtube.com/playlist?list=PLYDlqiU6gadsBEHh-N861iWcBzazs4sEU)|Video|ML, Optimization|Thomas Nield's YouTube channel covering ML and optimization topics, all in Kotlin!|
 |[Discrete Optimization (Coursera)](https://www.coursera.org/learn/discrete-optimization/)|Online Class|Optimization|Deep dive class into search algorithms, optimizatoin, as well as linear/integer programming|
 [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)|eBook|ML|The best practical guide on neural networks I've found|
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
