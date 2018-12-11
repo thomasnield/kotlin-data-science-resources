@@ -49,6 +49,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 
 |Project|Description|
 |---|---|
+|[Federated Learning - Building an Android ML App](https://proandroiddev.com/federated-learning-e79e054c33ef)|Showcase of an Android app recognizing images using DL4J|
 |[Kotlin Math Cheatsheet](https://github.com/thomasnield/kotlin_math_cheatsheet/blob/master/README.md)|How to turn mathematical symbol expressions into Kotlin code|
 |[Bayes Email Spam Filter](https://github.com/thomasnield/bayes_email_spam)|A Kotlin proof-of-concept implementation of a spam filter
 |[Bayes User Input Prediction](https://github.com/thomasnield/bayes_user_input_prediction)|A simple TornadoFX app that predicts user inputs using Naive Bayes text categorization
