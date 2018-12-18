@@ -37,6 +37,14 @@ To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [
 
 <br><br>
 
+**Q) I'm a programmer but I'm bad at math. Is there any hope for me?**
+
+A) Absolutely! If you have successfully hacked your way with programming, you can definitely hack your way through math. Granted it is helpful to have gone through high school and college math, but chances are you forgot most of it anyways. The key is to learn math that is useful for the problems you are trying to solve, and to pair it effectively with your programming skills.
+
+Advanced math (encompassing more than simple `+ - * /` operations) becomes necessary to solve problems with a nondeterministic nature. It is also easier to learn as an adult when you have a purpose for it. On top of learning enough math to solve nondeterministic problems you are interested in, try to foster your curiosity as well. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on YouTube and the book [No BS Guide to Math and Physics](http://www.lulu.com/shop/ivan-savov/no-bullshit-guide-to-math-and-physics/paperback/product-23632949.html) are great resources to do this. [This article](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd) also does a great job summarizing all the areas of applied math in data science.
+
+<br><br>
+
 **Q) How can Kotlin do any machine learning or data science tasks when it does not match the library catalogue of Python or R?**
 
 A) Read the rest of this document and you will be surprised what the JVM ecosystem already offers :)
@@ -126,8 +134,9 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |[Discrete Optimization (Coursera)](https://www.coursera.org/learn/discrete-optimization/)|Online Class|Optimization|Deep dive class into search algorithms, optimizatoin, as well as linear/integer programming|
 |[No BS Guide to Math and Physics](http://www.lulu.com/shop/ivan-savov/no-bullshit-guide-to-math-and-physics/paperback/product-23632949.html)|Book|Math|A helpful and unassuming book to learn high school/college math as well as calculus.|
 |[No BS Guide to Linear Algebra](https://gumroad.com/l/noBSLA)|Book|Math|A helpful and unassuming book to learn linear algebra|
-|[Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)|eBook|ML|The best practical guide on neural networks I've found|
-|[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
+|[Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)|eBook|ML|A gentle introduction to neural networks|
+|[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)|Book|ML|A thorough but practical "from scratch" approach to learning neural networks|
+|[Python for the Busy Java Developer](https://www.apress.com/us/book/9781484232330)|Book|Python|Helpful resource for Java devs to learn Python quickly|
 |[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
 |[Mastering Java for Data Science (Packt)](https://www.amazon.com/Mastering-Java-Data-Science-production-ready/dp/1782174273/)|Book|Data Science|Data science for Java developers|
 |[Mastering Java Machine Learning (Packt)](https://www.amazon.com/Mastering-Java-Machine-Learning-architectures/dp/1785880519)|Book|ML|Machine learning for Java developers|
