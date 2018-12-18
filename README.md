@@ -124,7 +124,9 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |[3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|Video|Math, ML, etc|Excellent YouTube channel visually covering mathematical concepts, including [linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)|
 |[Thomas Nield](https://www.youtube.com/playlist?list=PLYDlqiU6gadsBEHh-N861iWcBzazs4sEU)|Video|ML, Optimization|Thomas Nield's YouTube channel covering ML and optimization topics, all in Kotlin!|
 |[Discrete Optimization (Coursera)](https://www.coursera.org/learn/discrete-optimization/)|Online Class|Optimization|Deep dive class into search algorithms, optimizatoin, as well as linear/integer programming|
-[Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)|eBook|ML|The best practical guide on neural networks I've found|
+|[No BS Guide to Math and Physics](http://www.lulu.com/shop/ivan-savov/no-bullshit-guide-to-math-and-physics/paperback/product-23632949.html)|Book|Math|A helpful and unassuming book to learn high school/college math as well as calculus.|
+|[No BS Guide to Linear Algebra](https://gumroad.com/l/noBSLA)|Book|Math|A helpful and unassuming book to learn linear algebra|
+|[Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)|eBook|ML|The best practical guide on neural networks I've found|
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
 |[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
 |[Mastering Java for Data Science (Packt)](https://www.amazon.com/Mastering-Java-Data-Science-production-ready/dp/1782174273/)|Book|Data Science|Data science for Java developers|
