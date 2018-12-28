@@ -19,7 +19,7 @@ With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html)
 
 In my opinion, the best way to break into "data science" is to find problems with a nondeterministic nature that you would like to solve. Self-started projects like [generating a classroom schedule](https://github.com/thomasnield/optimized-scheduling-demo) or [categorizing text](https://www.youtube.com/watch?v=JLSdW60t898) are great ways to get insight and intuition pretty quickly. It also channels you into the areas of "data science" you will more likely be interested in. 
 
-I do think it is better to start learning [optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome) before diving into [machine learning](https://www.youtube.com/watch?v=tAioWlhKA90), as optimization is a key part of ML. Be sure to also develop a healthy curiosity for math and how it applies to the real-world, and YouTube channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) do a wonderful job fostering this kind of curiosity. 
+I do think it is better to start learning [optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome) before diving into [machine learning](https://www.youtube.com/watch?v=tAioWlhKA90), not just because optimization is a key part of ML, but rather it solves a larger number of real-world problems on its own. Be sure to also develop a healthy curiosity for math and how it applies to the real-world, and YouTube channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) do a wonderful job fostering this kind of curiosity. 
 
 <br><br>
 
