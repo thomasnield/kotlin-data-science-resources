@@ -62,7 +62,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[Kotlin Simple Neural Network](https://github.com/thomasnield/kotlin_simple_neural_network)|A simple application built with a Kotlin-implemented neural network|
 |[Kotlin Math Cheatsheet](https://github.com/thomasnield/kotlin_math_cheatsheet/blob/master/README.md)|How to turn mathematical symbol expressions into Kotlin code|
 |[Traveling Salesman Problem](https://github.com/thomasnield/traveling_salesman_demo)|A visual Kotlin demo of the [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)|
-|[Customer Wait Time Simulator](https://github.com/thomasnield/poisson-optimizer-and-simulator)|A simulation of customer wait time for a specified number of cashiers and rates of processing/arrival]
+|[Customer Wait Time Simulator](https://github.com/thomasnield/poisson-optimizer-and-simulator)|A simulation of customer wait time for a specified number of cashiers and rates of processing/arrival
 |[Bayes Email Spam Filter](https://github.com/thomasnield/bayes_email_spam)|A Kotlin proof-of-concept implementation of a spam filter
 |[Bayes User Input Prediction](https://github.com/thomasnield/bayes_user_input_prediction)|A simple TornadoFX app that predicts user inputs using Naive Bayes text categorization
 |[Linear Regression](https://github.com/thomasnield/kotlin_linear_regression)|Different algorithms for linear regression written and visualized with Kotlin/TornadoFX|
