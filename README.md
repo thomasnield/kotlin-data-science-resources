@@ -21,7 +21,7 @@ In my opinion, the best way to break into "data science" is to find problems wit
 
 I do think it is better to start learning [optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome) before diving into [machine learning](https://www.youtube.com/watch?v=tAioWlhKA90), not just because optimization is a key part of ML, but rather it solves a larger number of real-world problems on its own. Be sure to also develop a healthy curiosity for math and how it applies to the real-world, and YouTube channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) do a wonderful job fostering this kind of curiosity. 
 
-<br><br>
+<br>
 
 **Q) Why are you proposing using Kotlin for data science/machine learning purposes when most people are using Python?** 
 
@@ -35,23 +35,23 @@ To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [
 
 > The first player in ML field that will realise that Python is roadblock to further scale will reap the benefits. All we can do in Kotlin team is to make sure that when this realisation comes, Kotlin is in good shape to serve as a viable alternative to be considered.  - Roman Elizarov
 
-<br><br>
+<br>
 
 **Q) I'm a programmer but I'm bad at math. Is there any hope for me?**
 
 A) Absolutely. If you have successfully hacked your way with programming, you can hack your way through math. Granted it is helpful to have gone through the exposure of high school and college math, but chances are you forgot most of it anyways. The key is to learn math that is useful for the problems you are trying to solve, and to pair it effectively with your programming skills. It is also easier to learn as an adult when you have a purpose for it. 
 
-However, this can still be hard and it is important to not give into discouragement. Rather, keep studying your roadblocks and use multiple resources to demystify what you are struggling with. When you cannot find an alternative explanation of a concept, it can help to read or watch what is confusing you repeatedly until you start absorbing it. 
+However, this can still be hard and it is important to not give into discouragement. Keep studying your roadblocks and use multiple resources to demystify what you are struggling with. When you cannot find an alternative explanation of a concept, it can help to study what is confusing you repeatedly until you start absorbing it. 
 
-Advanced math (encompassing more than simple `+ - * /` operations) becomes necessary to solve problems with a nondeterministic nature. On top of learning enough math to solve nondeterministic problems you are interested in, try to foster your general curiosity. Do not memorize like in high school/college but take time to understand why something is so. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on YouTube and the book _[No BS Guide to Math and Physics](http://www.lulu.com/shop/ivan-savov/no-bullshit-guide-to-math-and-physics/paperback/product-23632949.html)_ are great resources to do this. [This article](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd) also does a great job summarizing all the areas of applied math in data science.
+On top of learning enough math to solve nondeterministic problems you are interested in, try to foster your general curiosity. Do not memorize like in high school/college but take time to understand why something is so. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on YouTube and the book _[No BS Guide to Math and Physics](http://www.lulu.com/shop/ivan-savov/no-bullshit-guide-to-math-and-physics/paperback/product-23632949.html)_ are great resources to do this. [PatrickJMT](http://patrickjmt.com/) does an excellent job showing how to apply mathematical concepts, and [tThis article](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd) effectively summarizes all the areas of applied math in data science.
 
-<br><br>
+<br>
 
 **Q) How can Kotlin do any machine learning or data science tasks when it does not match the library catalogue of Python or R?**
 
 A) Read the rest of this document and you will be surprised what the JVM ecosystem already offers :)
 
-<br><br>
+<br>
 
 # Showcases
 
