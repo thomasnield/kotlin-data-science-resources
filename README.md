@@ -65,6 +65,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[Customer Wait Time Simulator](https://github.com/thomasnield/poisson-optimizer-and-simulator)|A simulation of customer wait time for a specified number of cashiers and rates of processing/arrival
 |[Bayes Email Spam Filter](https://github.com/thomasnield/bayes_email_spam)|A Kotlin proof-of-concept implementation of a spam filter
 |[Bayes User Input Prediction](https://github.com/thomasnield/bayes_user_input_prediction)|A simple TornadoFX app that predicts user inputs using Naive Bayes text categorization
+|[Sudokus and Schedules](https://towardsdatascience.com/sudokus-and-schedules-60f3de5dfe0d)|An article on using Kotlin to solve Sudokus and scheduling problems from scratch|
 |[Linear Regression](https://github.com/thomasnield/kotlin_linear_regression)|Different algorithms for linear regression written and visualized with Kotlin/TornadoFX|
 |[Classroom Scheduler](https://github.com/thomasnield/optimized-scheduling-demo)|A discrete programming model that schedules classes against one classroom|
 |[Sudoku Solver](https://github.com/thomasnield/kotlin-sudoku-solver/blob/master/README.md)|A showcase of constraint programming and discrete optimization|
