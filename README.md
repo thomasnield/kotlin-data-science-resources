@@ -10,49 +10,6 @@ Data Science is a [broad, buzzwordy](http://tomstechnicalblog.blogspot.com/2018/
 
 With [Kotlin/Native](https://kotlinlang.org/docs/reference/native-overview.html) on the horizon, the scope of this document will hopefully expand beyond the JVM. 
 
-
-# FAQ
-
-**Q) I am a Java/Kotlin developer and I want to dive into "data science". Where do I start?** 
-
-**A)** The funny thing about buzzwords is they do prompt people to be open to new ideas, but when you reach the actual problem-solving stage it can be difficult knowing where to start. This is because "data science" means something different to every individual, company, and industry. Therefore it is easy for newcomers to chase [machine learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) as a solution to their problems when what they really need is [discrete optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome). Some data scientists like tinkering with data sets in Jupyter notebooks and Pandas DataFrames while software engineers find such approaches undisciplined and messy. Many data science book authors will tell you to [become proficient in linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), even though it seems pointless to learn without seeing real-world applications.
-
-In my opinion, the best way to break into "data science" is to find problems with a nondeterministic nature that you would like to solve. Self-started projects like [generating a classroom schedule](https://github.com/thomasnield/optimized-scheduling-demo) or [categorizing text](https://www.youtube.com/watch?v=JLSdW60t898) are great ways to get insight and intuition pretty quickly. It also channels you into the areas of "data science" you will more likely be interested in. 
-
-I do think it is better to start learning [optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome) before diving into [machine learning](https://www.youtube.com/watch?v=tAioWlhKA90), not just because optimization is a key part of ML, but rather it solves a larger number of real-world problems on its own. Be sure to also develop a healthy curiosity for math and how it applies to the real-world, and YouTube channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) do a wonderful job fostering this kind of curiosity. 
-
-<br>
-
-**Q) Why are you proposing using Kotlin for data science/machine learning purposes when most people are using Python?** 
-
-**A)** Kotlin is a production-grade and statically typed JVM language that fills the much-needed void of a more "pragmatic Scala". While many people are being productive with Python, [many organizations are finding Kotlin can help them be more productive](https://engineering.khanacademy.org/posts/kotlin-adoption.htm). This is especially true when it comes to building entire production systems and not just models.
-
-To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [in this post](https://discuss.kotlinlang.org/t/ai-and-deep-learning-define-the-future-of-programming-will-kotlin-fly-or-die/2264/5): 
-
-> Most other “Python” deep learning frameworks are actually written in C++. Python is used just as a scripting language to “glue” various moving pieces together. Any other scripting language could be used instead, with the corresponding (relatively thin) bridge. Of course, the current momentum is on the Python side. If the past history on innovation and rise/fall of languages teaches us anything, the lesson we can learn is that it does not really matter who came first to the field and it does not even matter who is the leader now.
-
-> Kotlin is, without doubt, considerably more productive for any project of non-trivial size due to its static types and emphasis on toolability. Even at 10K+ Python LOCs you start to feel pains of a dynamic language. Python works nicely in slide-ware and in small code snippets of the kind you can put into iPython notebooks, where you can actually execute the code on your data and then enjoy code completion and integrated help on the actual, dynamically resolved object instances. As soon as you start writing the actual non-tirival code, abstracting it into modules, etc, it all starts to fail utterly – code completion and help becomes useless for any non-trivial framework even in state-of-the-art Python IDEs like PyCharm.
-
-> The first player in ML field that will realise that Python is roadblock to further scale will reap the benefits. All we can do in Kotlin team is to make sure that when this realisation comes, Kotlin is in good shape to serve as a viable alternative to be considered.  - Roman Elizarov
-
-<br>
-
-**Q) I'm a programmer but I'm bad at math. Is there any hope for me?**
-
-A) Absolutely. If you have successfully hacked your way with programming, you can hack your way through math. Granted it is helpful to have gone through the exposure of high school and college math, but chances are you forgot most of it anyways. The key is to learn math that is useful for the problems you are trying to solve, and to pair it effectively with your programming skills. It is also easier to learn as an adult when you have a purpose for it. 
-
-However, this can still be hard and it is important to not give into discouragement. Keep studying your roadblocks and use multiple resources to demystify what you are struggling with. When you cannot find an alternative explanation of a concept, it can help to study what is confusing you repeatedly until you start absorbing it. 
-
-On top of learning enough math to solve nondeterministic problems you are interested in, try to foster your general curiosity. Do not memorize like in high school/college but take time to understand why something is so. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on YouTube and the book _[No BS Guide to Math and Physics](http://www.lulu.com/shop/ivan-savov/no-bullshit-guide-to-math-and-physics/paperback/product-23632949.html)_ are great resources to do this. [PatrickJMT](http://patrickjmt.com/) does an excellent job showing how to apply mathematical concepts, and [tThis article](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd) effectively summarizes all the areas of applied math in data science.
-
-<br>
-
-**Q) How can Kotlin do any machine learning or data science tasks when it does not match the library catalogue of Python or R?**
-
-A) Read the rest of this document and you will be surprised what the JVM ecosystem already offers :)
-
-<br>
-
 # Showcases
 
 Open-source applications and proof-of-concepts demonstrating data science modeling with Kotlin. 
@@ -149,6 +106,49 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |[Mastering Java Machine Learning (Packt)](https://www.amazon.com/Mastering-Java-Machine-Learning-architectures/dp/1785880519)|Book|ML|Machine learning for Java developers|
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
 
+
+
+# FAQ
+
+**Q) I am a Java/Kotlin developer and I want to dive into "data science". Where do I start?** 
+
+**A)** The funny thing about buzzwords is they do prompt people to be open to new ideas, but when you reach the actual problem-solving stage it can be difficult knowing where to start. This is because "data science" means something different to every individual, company, and industry. Therefore it is easy for newcomers to chase [machine learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) as a solution to their problems when what they really need is [discrete optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome). Some data scientists like tinkering with data sets in Jupyter notebooks and Pandas DataFrames while software engineers find such approaches undisciplined and messy. Many data science book authors will tell you to [become proficient in linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), even though it seems pointless to learn without seeing real-world applications.
+
+In my opinion, the best way to break into "data science" is to find problems with a nondeterministic nature that you would like to solve. Self-started projects like [generating a classroom schedule](https://github.com/thomasnield/optimized-scheduling-demo) or [categorizing text](https://www.youtube.com/watch?v=JLSdW60t898) are great ways to get insight and intuition pretty quickly. It also channels you into the areas of "data science" you will more likely be interested in. 
+
+I do think it is better to start learning [optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome) before diving into [machine learning](https://www.youtube.com/watch?v=tAioWlhKA90), not just because optimization is a key part of ML, but rather it solves a larger number of real-world problems on its own. Be sure to also develop a healthy curiosity for math and how it applies to the real-world, and YouTube channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) do a wonderful job fostering this kind of curiosity. 
+
+<br>
+
+**Q) Why are you proposing using Kotlin for data science/machine learning purposes when most people are using Python?** 
+
+**A)** Kotlin is a production-grade and statically typed JVM language that fills the much-needed void of a more "pragmatic Scala". While many people are being productive with Python, [many organizations are finding Kotlin can help them be more productive](https://engineering.khanacademy.org/posts/kotlin-adoption.htm). This is especially true when it comes to building entire production systems and not just models.
+
+To give a more thorough answer, Roman Elizarov at JetBrains summarized it best [in this post](https://discuss.kotlinlang.org/t/ai-and-deep-learning-define-the-future-of-programming-will-kotlin-fly-or-die/2264/5): 
+
+> Most other “Python” deep learning frameworks are actually written in C++. Python is used just as a scripting language to “glue” various moving pieces together. Any other scripting language could be used instead, with the corresponding (relatively thin) bridge. Of course, the current momentum is on the Python side. If the past history on innovation and rise/fall of languages teaches us anything, the lesson we can learn is that it does not really matter who came first to the field and it does not even matter who is the leader now.
+
+> Kotlin is, without doubt, considerably more productive for any project of non-trivial size due to its static types and emphasis on toolability. Even at 10K+ Python LOCs you start to feel pains of a dynamic language. Python works nicely in slide-ware and in small code snippets of the kind you can put into iPython notebooks, where you can actually execute the code on your data and then enjoy code completion and integrated help on the actual, dynamically resolved object instances. As soon as you start writing the actual non-tirival code, abstracting it into modules, etc, it all starts to fail utterly – code completion and help becomes useless for any non-trivial framework even in state-of-the-art Python IDEs like PyCharm.
+
+> The first player in ML field that will realise that Python is roadblock to further scale will reap the benefits. All we can do in Kotlin team is to make sure that when this realisation comes, Kotlin is in good shape to serve as a viable alternative to be considered.  - Roman Elizarov
+
+<br>
+
+**Q) I'm a programmer but I'm bad at math. Is there any hope for me?**
+
+A) Absolutely. If you have successfully hacked your way with programming, you can hack your way through math. Granted it is helpful to have gone through the exposure of high school and college math, but chances are you forgot most of it anyways. The key is to learn math that is useful for the problems you are trying to solve, and to pair it effectively with your programming skills. It is also easier to learn as an adult when you have a purpose for it. 
+
+However, this can still be hard and it is important to not give into discouragement. Keep studying your roadblocks and use multiple resources to demystify what you are struggling with. When you cannot find an alternative explanation of a concept, it can help to study what is confusing you repeatedly until you start absorbing it. 
+
+On top of learning enough math to solve nondeterministic problems you are interested in, try to foster your general curiosity. Do not memorize like in high school/college but take time to understand why something is so. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on YouTube and the book _[No BS Guide to Math and Physics](http://www.lulu.com/shop/ivan-savov/no-bullshit-guide-to-math-and-physics/paperback/product-23632949.html)_ are great resources to do this. [PatrickJMT](http://patrickjmt.com/) does an excellent job showing how to apply mathematical concepts, and [tThis article](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd) effectively summarizes all the areas of applied math in data science.
+
+<br>
+
+**Q) How can Kotlin do any machine learning or data science tasks when it does not match the library catalogue of Python or R?**
+
+A) Read the rest of this document and you will be surprised what the JVM ecosystem already offers :)
+
+<br>
 
 # Communities
 
