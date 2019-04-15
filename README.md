@@ -105,7 +105,7 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |[Mastering Java for Data Science (Packt)](https://www.amazon.com/Mastering-Java-Data-Science-production-ready/dp/1782174273/)|Book|Data Science|Data science for Java developers|
 |[Mastering Java Machine Learning (Packt)](https://www.amazon.com/Mastering-Java-Machine-Learning-architectures/dp/1785880519)|Book|ML|Machine learning for Java developers|
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
-
+|[Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers)|Video|Functional Programming, Object Orientation|LiveVideo course about functional and object oriented programming and building Android apps in Kotlin|
 
 
 # FAQ
