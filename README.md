@@ -72,6 +72,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[Renjin](https://en.wikipedia.org/wiki/Renjin)|Interop|R JVM implementation|
 |[Apache Mahout](https://mahout.apache.org/)|Linear Algebra|Distributed framework for regression, clustering and recommendation|
 |[Weka](https://www.cs.waikato.ac.nz/ml/index.html)|Data Mining Software|Collection of machine learning algorithms for data mining tasks|
+|[Apache MXNet](https://mxnet.apache.org/)|Deep Learning Framework|Deep learning framework with a Java API (inference only)|
 
 # Resources for Python Developers
 
