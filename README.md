@@ -16,7 +16,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 
 |Project|Description|
 |---|---|
-|[Kotlin Machine Learning Demos](https://github.com/thomasnield/kotlin-machine-learning-demos)|A simple application built with from-scratch Kotlin machine learning algorithms|
+|[Kotlin Machine Learning Demos](https://github.com/thomasnield/kotlin-machine-learning-demos)|A simple demo with from-scratch Kotlin machine learning algorithms, as well as library implementations|
 |[Kotlin Math Cheatsheet](https://github.com/thomasnield/kotlin_math_cheatsheet/blob/master/README.md)|How to turn mathematical symbol expressions into Kotlin code|
 |[Traveling Salesman Problem](https://github.com/thomasnield/traveling_salesman_demo)|A visual Kotlin demo of the [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)|
 |[Customer Wait Time Simulator](https://github.com/thomasnield/poisson-optimizer-and-simulator)|A simulation of customer wait time for a specified number of cashiers and rates of processing/arrival
