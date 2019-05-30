@@ -24,6 +24,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[Bayes User Input Prediction](https://github.com/thomasnield/bayes_user_input_prediction)|A simple TornadoFX app that predicts user inputs using Naive Bayes text categorization
 |[Sudokus and Schedules](https://towardsdatascience.com/sudokus-and-schedules-60f3de5dfe0d)|An article on using Kotlin to solve Sudokus and scheduling problems from scratch|
 |[Linear Regression](https://github.com/thomasnield/kotlin_linear_regression)|Different algorithms for linear regression written and visualized with Kotlin/TornadoFX|
+|[Kotlin Simple Logistic Regression](https://gist.github.com/thomasnield/6f7d1cb8ab0faa839299cfdbbb70d860)|A logistic regression from scratch in Kotlin|
 |[Classroom Scheduler](https://github.com/thomasnield/optimized-scheduling-demo)|A discrete programming model that schedules classes against one classroom|
 |[Sudoku Solver](https://github.com/thomasnield/kotlin-sudoku-solver/blob/master/README.md)|A showcase of constraint programming and discrete optimization|
 |[Driver Shift Optimizer](https://github.com/thomasnield/continuous-optimization-example)|A  linear programming model using ojAlgo to minimze the cost of driver shifts in a day
