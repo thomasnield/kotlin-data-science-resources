@@ -25,6 +25,7 @@ Open-source applications and proof-of-concepts demonstrating data science modeli
 |[Sudokus and Schedules](https://towardsdatascience.com/sudokus-and-schedules-60f3de5dfe0d)|An article on using Kotlin to solve Sudokus and scheduling problems from scratch|
 |[Linear Regression](https://github.com/thomasnield/kotlin_linear_regression)|Different algorithms for linear regression written and visualized with Kotlin/TornadoFX|
 |[Kotlin Simple Logistic Regression](https://gist.github.com/thomasnield/6f7d1cb8ab0faa839299cfdbbb70d860)|A logistic regression from scratch in Kotlin|
+|[Kotlin K-Means Clustering](https://gist.github.com/thomasnield/b083058f34d8428df5734c97a8c10e0c)|A simple K-means clustering of points|
 |[Classroom Scheduler](https://github.com/thomasnield/optimized-scheduling-demo)|A discrete programming model that schedules classes against one classroom|
 |[Sudoku Solver](https://github.com/thomasnield/kotlin-sudoku-solver/blob/master/README.md)|A showcase of constraint programming and discrete optimization|
 |[Driver Shift Optimizer](https://github.com/thomasnield/continuous-optimization-example)|A  linear programming model using ojAlgo to minimze the cost of driver shifts in a day
