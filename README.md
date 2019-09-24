@@ -108,6 +108,8 @@ If you are a veteran JVM/Kotlin developer trying to break into the broad, buzzwo
 |[Mastering Java for Data Science (Packt)](https://www.amazon.com/Mastering-Java-Data-Science-production-ready/dp/1782174273/)|Book|Data Science|Data science for Java developers|
 |[Mastering Java Machine Learning (Packt)](https://www.amazon.com/Mastering-Java-Machine-Learning-architectures/dp/1785880519)|Book|ML|Machine learning for Java developers|
 |[Machine Learning for Absolute Beginners](http://a.co/4Ir0KhJ)|eBook|ML|Excellent eBook to get high level understanding of ML|
+|[Creating Custom Models with AutoML and MLKit](https://speakerdeck.com/pjwelcome/creating-custom-models-with-automl-and-mlkit)|Blog|AutoML|Google's AutoML used w/ Kotlin on Android ([github](https://github.com/pjwelcome/Android_AutoMLDemo))|
+|[AutoML: The Next Wave of Machine Learning](https://heartbeat.fritz.ai/automl-the-next-wave-of-machine-learning-5494baac615f)|Blog|AutoML|AutoML tools review|
 
 
 
